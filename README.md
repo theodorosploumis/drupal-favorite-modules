@@ -10,6 +10,7 @@ The sorting of each list does matter (higher listed items are most used).
 - [simplei](https://www.drupal.org/project/simplei)
 - [reroute_email](https://www.drupal.org/project/reroute_email)
 - [devel](https://www.drupal.org/project/devel)
+- [twig_vardumper](https://www.drupal.org/project/twig_vardumper)
 - [masquerade](https://www.drupal.org/project/masquerade)
 - [structure_sync](https://www.drupal.org/project/structure_sync)
 - [twig_field_value](https://www.drupal.org/project/twig_field_value)
