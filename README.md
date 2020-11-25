@@ -3,8 +3,9 @@ Common used modules for almost any simple project (8.x, my choices).
 
 The sorting of each list does matter (higher listed items are most used).
 
+## Modules
 
-## Development
+### Development
 - [shield](https://www.drupal.org/project/shield)
 - [stage_file_proxy](https://www.drupal.org/project/stage_file_proxy)
 - [simplei](https://www.drupal.org/project/simplei)
@@ -16,7 +17,7 @@ The sorting of each list does matter (higher listed items are most used).
 - [twig_field_value](https://www.drupal.org/project/twig_field_value)
 
 
-## Administration
+### Administration
 - [admin_toolbar](https://www.drupal.org/project/admin_toolbar)
 - [toolbar_menu](https://www.drupal.org/project/toolbar_menu)
 - [toolbar_menu_clean](https://www.drupal.org/project/toolbar_menu_clean)
@@ -26,7 +27,7 @@ The sorting of each list does matter (higher listed items are most used).
 - [userprotect](https://www.drupal.org/project/userprotect)
 - [disable_language](https://www.drupal.org/project/disable_language) (multilingual)
 
-## Authoring
+### Authoring
 - [replicate](https://www.drupal.org/project/replicate)
 - [linkit](https://www.drupal.org/project/linkit)
 - [override_node_options](https://www.drupal.org/project/override_node_options)
@@ -35,12 +36,12 @@ The sorting of each list does matter (higher listed items are most used).
 - [transliterate_filenames](https://www.drupal.org/project/transliterate_filenames)
 
 
-## Backups
+### Backups
 - [backup_db](https://www.drupal.org/project/backup_db)
 - [backup_migrate](https://www.drupal.org/project/backup_migrate)
 
 
-## Performance
+### Performance
 - [advagg](https://www.drupal.org/project/advagg)
 - [minifyhtml](https://www.drupal.org/project/minifyhtml)
 - [http_cache_control](https://www.drupal.org/project/http_cache_control)
@@ -49,7 +50,7 @@ The sorting of each list does matter (higher listed items are most used).
 - [imageapi_optimize](https://www.drupal.org/project/imageapi_optimize)
 
 
-## SEO
+### SEO
 - [pathauto](https://www.drupal.org/project/pathauto)
 - [pathologic](https://www.drupal.org/project/pathologic)
 - [redirect](https://www.drupal.org/project/redirect)
@@ -64,10 +65,14 @@ The sorting of each list does matter (higher listed items are most used).
 - [yoast_seo](https://www.drupal.org/project/yoast_seo)
 
 
-## Other
+### Other
 - [smtp](https://www.drupal.org/project/smtp)
 - [mailsystem](https://www.drupal.org/project/mailsystem)
 - [back_to_top](https://www.drupal.org/project/back_to_top)
 - [honeypot](https://www.drupal.org/project/honeypot)
 - [recaptcha](https://www.drupal.org/project/recaptcha)
 - [eu_cookie_compliance](https://www.drupal.org/project/eu_cookie_compliance)
+
+
+## Similar Lists - Resources
+- https://opensenselabs.com/blog/articles/ultimate-drupal-seo-guide-2020
