@@ -21,6 +21,7 @@ The sorting of each list does matter (higher listed items are most used).
 - [admin_toolbar](https://www.drupal.org/project/admin_toolbar)
 - [toolbar_menu](https://www.drupal.org/project/toolbar_menu)
 - [toolbar_menu_clean](https://www.drupal.org/project/toolbar_menu_clean)
+- [coffee](https://www.drupal.org/project/coffee)
 - [rebuild_cache_access](https://www.drupal.org/project/rebuild_cache_access)
 - [views_bulk_operations](https://www.drupal.org/project/views_bulk_operations)
 - [roleassign](https://www.drupal.org/project/roleassign)
