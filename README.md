@@ -3,6 +3,8 @@ Common used modules for almost any simple project (8.x, my choices).
 
 The sorting of each list does matter (higher listed items are most used).
 
+See also my DO starred projects https://www.drupal.org/user/869224/starred.
+
 ## Modules
 
 ### Development
