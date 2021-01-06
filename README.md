@@ -62,6 +62,7 @@ See also my DO starred projects https://www.drupal.org/user/869224/starred.
 - [metatag](https://www.drupal.org/project/metatag)
 - [extlink](https://www.drupal.org/project/extlink)
 - [google_analytics](https://www.drupal.org/project/google_analytics) (if used)
+- [google_tag](https://www.drupal.org/project/google_tag) (if used)
 - [schema_metatag](https://www.drupal.org/project/schema_metatag)
 - [easy_breadcrumb](https://www.drupal.org/project/easy_breadcrumb)
 - [menu_trail_by_path](https://www.drupal.org/project/menu_trail_by_path)
