@@ -68,14 +68,18 @@ See also my DO starred projects https://www.drupal.org/user/869224/starred.
 - [menu_trail_by_path](https://www.drupal.org/project/menu_trail_by_path)
 - [fast_404](https://www.drupal.org/project/fast_404)
 - [yoast_seo](https://www.drupal.org/project/yoast_seo)
+- [shariff](https://www.drupal.org/project/shariff)
+
+
+### Services
+- [smtp](https://www.drupal.org/project/smtp)
+- [mailsystem](https://www.drupal.org/project/mailsystem)
+- [recaptcha](https://www.drupal.org/project/recaptcha)
 
 
 ### Other
-- [smtp](https://www.drupal.org/project/smtp)
-- [mailsystem](https://www.drupal.org/project/mailsystem)
 - [back_to_top](https://www.drupal.org/project/back_to_top)
 - [honeypot](https://www.drupal.org/project/honeypot)
-- [recaptcha](https://www.drupal.org/project/recaptcha)
 - [eu_cookie_compliance](https://www.drupal.org/project/eu_cookie_compliance)
 
 
