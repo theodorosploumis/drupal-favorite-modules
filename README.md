@@ -10,7 +10,7 @@ See also my DO starred projects https://www.drupal.org/user/869224/starred.
 ### Development
 - [shield](https://www.drupal.org/project/shield)
 - [stage_file_proxy](https://www.drupal.org/project/stage_file_proxy)
-- [simplei](https://www.drupal.org/project/simplei)
+- [simplei](https://www.drupal.org/project/simplei), [environment_indicator](https://www.drupal.org/project/environment_indicator)
 - [reroute_email](https://www.drupal.org/project/reroute_email)
 - [devel](https://www.drupal.org/project/devel)
 - [twig_vardumper](https://www.drupal.org/project/twig_vardumper)
